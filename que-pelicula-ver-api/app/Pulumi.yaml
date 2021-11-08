@@ -1,0 +1,4 @@
+name: quePeliculaVerAPI
+runtime: nodejs
+description: Represents cloud infrastructure needed for hosting the "Que pelicula Ver API" React application.
+main: pulumi/
